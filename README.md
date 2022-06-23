@@ -9,7 +9,6 @@ This challenge is to build out this card component and get it looking as close t
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
 - CSS varaibles
